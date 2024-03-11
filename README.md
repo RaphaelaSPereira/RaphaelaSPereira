@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/RaphaelaSPereira/RaphaelaSPereira/assets/144744155/0e32180d-ab85-4664-9922-eb9614bcdfdb" width="320px" />
+</div>
+
 <div>
   <a href="https://github.com/RaphaelaSPereira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelaSPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
