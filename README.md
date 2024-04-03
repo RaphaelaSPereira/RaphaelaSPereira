@@ -1,4 +1,6 @@
-![gif](https://github.com/RaphaelaSPereira/RaphaelaSPereira/assets/144744155/7ebca3d8-8f0b-430a-b8f5-758e3f922012)
+<div align="center">
+    <img src="https://github.com/RaphaelaSPereira/RaphaelaSPereira/assets/144744155/7ebca3d8-8f0b-430a-b8f5-758e3f922012" width="320px" />
+</div>
 
 <div align="center">
   <a href="https://github.com/RaphaelaSPereira">
