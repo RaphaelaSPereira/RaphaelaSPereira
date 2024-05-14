@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/RaphaelaSPereira/RaphaelaSPereira/assets/144744155/ce0d8746-0f2b-4287-be10-5ae2a2af2c32" width="320px"/>
+    <img src="https://github.com/RaphaelaSPereira/RaphaelaSPereira/assets/144744155/44196ed1-de8a-4874-be55-13ac0aa4c13d"/>
 </div>
 
 <div align="center">
