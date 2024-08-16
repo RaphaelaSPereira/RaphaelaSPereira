@@ -1,4 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79DAFAC2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79DAFA&height=120&section=header"/>
+<div align="center">
+<h1>Hello World!</h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/RaphaelaSPereira">
@@ -6,4 +9,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelaSPereira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79DAFAC2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79DAFA&height=120&section=footer"/>
