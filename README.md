@@ -4,7 +4,8 @@
 </div>
 
 - ☁️ Técnico em Desenvolvimento de Sistemas 3/3
-  
+
+## Progress:
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelaSPereira&show_icons=true&theme=dracula#gh-dark-mode-only">
