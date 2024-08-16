@@ -13,6 +13,4 @@
   
 </div>
 
-![6d2c1785-d033-4255-8868-ac8f851222a6](https://github.com/user-attachments/assets/67c870e7-6e87-48fb-85a7-45af115a0481)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79DAFA&height=120&section=footer"/>
