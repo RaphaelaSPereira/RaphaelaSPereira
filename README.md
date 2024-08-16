@@ -4,6 +4,7 @@
 </div>
 
 - ☁️ Técnico em Desenvolvimento de Sistemas 3/3
+- ☁️ Inglês intermediário
 
 ## Progress:
 <div align="center">
